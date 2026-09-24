@@ -1,0 +1,6 @@
+{
+  "name": "منظومة تقييم ورصد الحماية الإنسانية",
+  "description": "منصة تفاعلية متكاملة لتحليل بيانات رصد الحماية (KII, FGD, Direct Observation) ومصفوفة المخاطر والقدرات والهشاشة والمعايير الدولية والتوصيات",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
